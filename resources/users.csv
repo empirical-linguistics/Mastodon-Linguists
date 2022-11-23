@@ -1,9 +1,21 @@
+
+Linguists on Mastodon 
+
+(Please only add yourselves, not others, unless you have their permission – but please tell any colleagues you may know on mastodon to add themselves if they haven't yet!)
+(If you use comma separators, it will be easier for people to import the csv to follow you.)
+
+
 account,name,link
+@hilario@lingo.lol, Hilário de Sousa, https://lingo.lol/@hilario
+mobarang@safareig.calbasi.net, Mònica Barrieras,https://safareig.calbasi.net/@mobarang
+JLC1956@nerdculture.de, Jean-Luc CHEVILLARD, https://nerdculture.de/@JLC1956, https://htl.cnrs.fr/equipe/jl-chevillard/
+@mayhplumb@sciences.social, May Helena Plumb, https://sciences.social/@mayhplumb
 @MariellaPetrigni@masthead.social, Mariella Petrigni, https://masthead.social/@MariellaPetrigni
 @majjatervola@mastodon.online, Maija Tervola, https://mastodon.online/@majjatervola
 @ancientsounds@mastodonapp.uk, John Coleman, https://mastodonapp.uk/web/@soundsancient
 @LChoshen@sigmoid.social, Leshem Choshen, https://sigmoid.social/@LChoshen
 @metaphornerd@fediscience.org, Brigitte Nerlich, https://fediscience.org/web/@metaphornerd
+@notesjor@det.social, Jan Oliver Rüdiger, https://det.social/@notesjor
 @iohannan@lingo.lol, Johan Schalin, https://lingo.lol/web/@iohannan
 @stefanhartmann@fediscience.org, Stefan Hartmann, https://fediscience.org/@stefanhartmann
 @grvsmth@lingo.lol, Angus Andrea Grieve-Smith, https://lingo.lol/@grvsmth
@@ -11,15 +23,15 @@ account,name,link
 @MarcSchulder@fediscience.org, Marc Schulder, https://fediscience.org/@MarcSchulder
 @GrantBarrett@mas.to,Grant Barrett, https://mas.to/@grantbarrett
 @ElenLeFoll@fediscience.org, Elen Le Foll, https://fediscience.org/@ElenLeFoll
-@syntaxkatze@scicomm.xyz, Eleonore Schmitt, https://scicomm.xyz/@syntaxkatze 
+@syntaxkatze@scicomm.xyz, Eleonore Schmitt, https://scicomm.xyz/@syntaxkatze 
 @stefanowitsch@fediscience.org, Anatol Stefanowitsch, https://fediscience.org/@stefanowitsch
 @elisakreiss@nerdculture.de, Elisa Kreiss, https://nerdculture.de/@elisakreiss
 @tiana@fediscience.org, Tiana Simovic, https://fediscience.org/@tiana
 @audringje@mastodon.nl, Jenny Audring , https://mastodon.nl/@audringje
 @ollisilv@fediscience.org, Olli Silvennoinen, https://fediscience.org/web/@ollisilv
 @alexanderlasch@mastodon.social, Alexander Lasch , https://mastodon.social/@alexanderlasch
-@anotherklokwerkparallel@lingo.lol, Dash Stevens , https://lingo.lol/@anotherklokwerkparallel 
-@BerLinguistin@mas.to, Naomi Truan, https://mas.to/@BerLinguistin 
+@anotherklokwerkparallel@lingo.lol, Dash Stevens , https://lingo.lol/@anotherklokwerkparallel 
+@BerLinguistin@mas.to, Naomi Truan, https://mas.to/@BerLinguistin 
 @arche3000@mastodon.social, Noah Bubenhofer, https://mastodon.social/@arche3000
 @emilymbender@dair-community.social, Emily M. bender, https://dair-community.social/@emilymbender
 @josch@chaos.social, Joachim Scharloth, https://chaos.social/@josch
@@ -31,13 +43,13 @@ account,name,link
 @coocho@lingo.lol, Daria Dayter, https://lingo.lol/web/@Coocho
 @dingemansemark@scholar.social, Mark Dingemanse, https://scholar.social/@dingemansemark
 @johannalaakso@mastodon.social, Johanna Laakso, https://mastodon.social/@johannalaakso
-@fonolog@mstdn.social, Marc van Oostendorp, https://mstdn.social/@fonolog 
-@gretchenmcc@xoxo.zone, Gretchen McCulloch, https://xoxo.zone/@gretchenmcc  
+@fonolog@mstdn.social, Marc van Oostendorp, https://mstdn.social/@fonolog 
+@gretchenmcc@xoxo.zone, Gretchen McCulloch, https://xoxo.zone/@gretchenmcc  
 @socalab@fediscience.org, Covadonga Lamar Prieto, https://fediscience.org/@Socalab
 @lila@scholar.social, Evangelia (Lila) Adamou, https://scholar.social/@Lila
 @f_moncomble@mastodon.online, Florent Moncomble, https://mastodon.online/@f_moncomble
 @rbnmyr@mas.to, Robin Meyer, https://mas.to/@rbnmyr
-@joran@mstdn.social, Jhonnatan Rangel, 
+@joran@mstdn.social, Jhonnatan Rangel, 
 @liskerr@mastodon.online, Elisabeth (Lis) Kerr, https://mastodon.online/@liskerr
 @MarCandea@mastodon.zaclys.com, Maria Candea, https://mastodon.zaclys.com/web/@MarCandea
 @canders1@sigmoid.social, Carolyn Anderson, https://sigmoid.social/@canders1
@@ -73,29 +85,29 @@ account,name,link
 @ausir@meowr.me, Paweł Dembowski , https://https://meowr.me/@ausir
 @ahnaphor@scicomm.xyz, Byron Ahn, https://scicomm.xyz/@ahnaphor
 @phoneme@lingo.lol, Fred Mailhot, https://lingo.lol/web/@phoneme
-@johanrooryck@mstdn.social, Johan Rooryck, https://mstdn.social/@johanrooryck 
- @davidadger@mas.to, David Adger, https://mas.to/@davidadger
- @lalexander@mastodon.world, Luke Alexander, https://mastodon.world/web/@lalexander
+@johanrooryck@mstdn.social, Johan Rooryck, https://mstdn.social/@johanrooryck 
+@davidadger@mas.to, David Adger, https://mas.to/@davidadger
+@lalexander@mastodon.world, Luke Alexander, https://mastodon.world/web/@lalexander
 @amyp@mastodon.social, Antonio Machicao y Priemer, https://mastodon.social/@amyp
 @arnicas@mstdn.social, Lynn Cherny, https://mstdn.social/@arnicas
 @forensiclinguist@mastodon.online, Isabel Picornell, https://mastodon.online/@forensiclinguist
-@gilaschauer@mastodon.social, Gila Schauer, https://mastodon.social@gilaschauer (doesn't work)
+@gilaschauer@mastodon.social, Gila Schauer, https://mastodon.social/@gilaschauer
 @janwo@linguisten.info, Jan Wohlgemuth, https://linguisten.info/@janwo
 @adminuser@linguisten.info, Linguisten.de Forum, https://linguisten.info
 @drswissmiss@toot.wales, Mercedes Durham, https://toot.wales/@drswissmiss
-@glossa@hcommons.social, Glossa: a journal of general linguistics, https://hcommons.social/web/@glossa 
+@glossa@hcommons.social, Glossa: a journal of general linguistics, https://hcommons.social/web/@glossa 
 @michael@scholar.social, Michael Dunn, https://scholar.social/@michael
 @tschfflr@fediscience.org, Tatjana Scheffler, https://fediscience.org/@tschfflr
 @jik@mastodon.social, Jussi Karlgren, https://mastodon.social/@jik
-@outdooracademic@mastodon.social, Antje Wilton, https://mastodon.social/outdooracademic 
+@outdooracademic@mastodon.social, Antje Wilton, https://mastodon.social/outdooracademic 
 @MurielN@fediscience.org, Muriel Norde, https://fediscience.org/web/@MurielN
 @GeorgeWalkden@mastodon.online, George Walkden, https://mastodon.online/@GeorgeWalkden
 @gCat@todon.edu, Gillian Ramchand, https://todon.eu/web/@gCat
 @evazimmermann@mstdn.social, Eva Zimmermann, https://mstdn.social/@evazimmermann
 @AngloPeranakan@lingo.lol, Guy Emerson, https://lingo.lol/web/@AngloPeranakan
-@matti_on_ice@mastodon.social, Matthew Whelpton, https://mastodon.social/@matti_on_ice
+@matti_on_ice@mastodonapp.uk, Matthew Whelpton, https://mastodonapp.uk/@matti_on_ice
 @itovvmk@sigmoid.social, Viviane Ito, https://sigmoid.social/@itovvmk
-@CerstinMahlow@qoto.org, Cerstin Mahlow, https://qoto.org/@CerstinMahlow
+@CerstinMahlow@qoto.org,Cerstin Mahlow,https://qoto.org/@CerstinMahlow
 @lisa_b_davidson@lingo.lol, Lisa Davidson, https://lingo.lol/@lisa_b_davidson
 @wayword@masthead.social, A Way with Words, https://masthead.social/@wayword
 @elenasemino@mastodonapp.uk, Elena Semino, https://mastodonapp.uk/web/@elenasemino
@@ -104,4 +116,53 @@ account,name,link
 @jverissimo@fediscience.org, João Veríssimo, https://fediscience.org/@jverissimo
 @MaryWalworth@fediscience.org, Mary Walworth, https://fediscience.org/@MaryWalworth
 @gabriella@fediscience.org, Gabriella Oliveira, https://fediscience.org/@gabriella
-
+@andraas@mastodon.social,András Bárány,https://mastodon.social/@Andraas
+@LukaHorjak@scholar.social, Luka Horjak, https://scholar.social/@LukaHorjak
+@khia@hci.social, Khia Johnson, https://hci.social/@khia#
+@sascha_wolfer@fediscience.org,Sascha Wolfer,https://fediscience.org/@sascha_wolfer
+@dammant@mstdn.social, Antje Dammel, https://mstdn.social/@dammant
+@hanna_schmueck@fediscience.org, Hanna Schmück, https://fediscience.org/web/@hanna_schmueck
+@garicgymro@twt.cymru, Gareth Roberts, https://twt.cymru/@garicgymro
+@JeroenSH@mastodon.green, Jeroen van de Weijer, https://mastodon.green/@JeroenSH
+@xenia_ks@dizl.de, Xenia Schmalz, https://dizl.de/@xenia_ks
+@beestween@ohai.social, Berit Johannsen, https://ohai.social/@beestween
+@Kate_Sayers@sciences.social, Kate Sayers, https://sciences.social/web/@Kate_Sayers
+@queerterpreter@lingo.lol, Ártemis López, https://lingo.lol/@queerterpreter
+@benebular@mastodon.social, Ben Lang, https://mastodon.social/@benebular
+@johnnyunger@scholar.social,Johnny Unger,https://scholar.social/@johnnyunger
+@FrauSnippe@Newsie.social, Kristin Snippe, https://newsie.social/@FrauSnippe
+@demigrigo@qoto.org, Dimitra Grigoriou, https://qoto.org/@demigrigo
+@mjkammun@mastodon.green, Martin Kümmel, https://mastodon.green/@mjkammun
+@thelonious@fosstodon.org, Ruben van de Vijver, https://fosstodon.org/@thelonious
+@sandro_bachmann@swiss.social, Sandro Bachmann, https://swiss.social/@sandro_bachmann
+@goberiko@climatejustice.social, Federico Gobbo, https://climatejustice.social/@goberiko
+@robertadal@mastodon.uno, Roberta D'Alessandro, https://mastodon.uno/@robertadal
+@anghyflawn@mastodon.scsot,Pavel Iosad,https://mastodon.scot/@anghyflawn
+@paoloroseano.mastodon.uno, Paolo Roseano, https://mastodon.uno/@paoloroseano
+@mncantarutti@mstdn.social, Marina Cantarutti, https://mstdn.social/@mncantarutti
+@janesetter@sciences.social, Jane Setter, https://sciences.social/@janesetter
+@clairenance@lingo.lol, Claire Nance, https://lingo.lol/@clairenance
+@katking_fl@mastodon.online, Kat King, https://mastodon.online/@katking_fl
+@faytak@mas.to, Matthew Faytak, https://mas.to/@faytak
+@miglmarl@fedi.at, Marlene Miglbauer, https://fedi.at/@miglmarl
+@emmamcc@mastodonapp.uk, Emma McClaughlin,
+https://mastodonapp.uk/@emmamcc
+@twoerfel@mastodon.bildung.social, Till Woerfel, https://bildung.social/@twoerfel
+@mariniceforo@climatejustice.social, Marina Niceforo, https://climatejustice.social/@mariniceforo
+@sylviajaki@ohai.social, Sylvia Jaki, https://ohai.social/@sylviajaki
+@nshchinov@urbanists.social, Nadezda Shchinova, https://urbanists.social/@nshchinov
+@javier@lingo.lol, Javier Fernández Cruz, 
+@hefrightbe@social.cologne, Brook Hefright,
+@HadasKotek@tech.lgbt, Hadas Kotek, https://tech.lgbt/@HadasKotek
+@MichaelErard@mastodon.social,, @michaelerard@lingo.lol
+@ruthsinger@toot.community, Ruth Singer, https://toot.community/@ruthsinger
+@serenissimaj@sciences.social,,
+@raul_aranovich@sciences.social, Raúl Aranovich, https://sciences.social/@raul_aranovich
+@rivaquiroga@mastodon.social, Riva Quiroga, https://mastodon.social/@rivaquiroga
+@billy@mathstodon.xyz, Billy Woods, https://mathstodon.xyz/@billy
+@linguistgoneforeign@mastodon.social, Linguist Gone Foreign,https://mastodon.social/@linguistgoneforeign,
+@beefgallo@home.social, maria goldshtein, https://home.social/@beefgallo @beefgallo@home.social
+@katesteel@masto.ai, Kate Steel, https://masto.ai/@katesteel
+@MorphoSyntaxJedi, Mike Putnam, https://masto.nu/@MorphoSyntaxJedi
+@maitxinha@mastodon.lol, Maite Correa, https://mastodon.lol/@maitxinha
+@nagaya@scholar.social, Naonori Nagaya, https://scholar.social/@nagaya
