@@ -1,4 +1,9 @@
-
+Linguists on Mastodon 
+ 
+(Please only add yourselves, not others, unless you have their permission – but please tell any colleagues you may know on mastodon to add themselves if they haven't yet!)
+(If you use comma separators, it will be easier for people to import the csv to follow you.)
+ 
+ 
 account,name,link
 @hilario@lingo.lol, Hilário de Sousa, https://lingo.lol/@hilario
 mobarang@safareig.calbasi.net, Mònica Barrieras,https://safareig.calbasi.net/@mobarang
@@ -43,7 +48,7 @@ JLC1956@nerdculture.de, Jean-Luc CHEVILLARD, https://nerdculture.de/@JLC1956
 @lila@scholar.social, Evangelia (Lila) Adamou, https://scholar.social/@Lila
 @f_moncomble@mastodon.online, Florent Moncomble, https://mastodon.online/@f_moncomble
 @rbnmyr@mas.to, Robin Meyer, https://mas.to/@rbnmyr
-@joran@mstdn.social, Jhonnatan Rangel, NA
+@joran@mstdn.social, Jhonnatan Rangel, 
 @liskerr@mastodon.online, Elisabeth (Lis) Kerr, https://mastodon.online/@liskerr
 @MarCandea@mastodon.zaclys.com, Maria Candea, https://mastodon.zaclys.com/web/@MarCandea
 @canders1@sigmoid.social, Carolyn Anderson, https://sigmoid.social/@canders1
@@ -58,7 +63,7 @@ JLC1956@nerdculture.de, Jean-Luc CHEVILLARD, https://nerdculture.de/@JLC1956
 @sorensorensen@lingo.lol, Søren Sandager Sørensen, https://lingo.lol/web/@sorensorensen
 @sebastianpado@fediscience.org, Sebastian Pado, https://fediscience.org/web/@sebastianpado
 @EScetera@mastodon.online, Esther Voon, https://mastodon.online/@EScetera
-@mariontellier@mastodon.iriseden.eu,  NA ,https://mastodon.iriseden.eu/@mariontellier
+@mariontellier@mastodon.iriseden.eu,   ,https://mastodon.iriseden.eu/@mariontellier
 @mhuening@berlin.social, Matthias Hüning, https://berlin.social/@mhuening
 @mixosaurus@queer.party, Kat Gupta, https://queer.party/web/@mixosaurus
 @DiscourseNet@fediscience.org,DiscourseNet,https://fediscience.org/@DiscourseNet
@@ -117,7 +122,7 @@ JLC1956@nerdculture.de, Jean-Luc CHEVILLARD, https://nerdculture.de/@JLC1956
 @dammant@mstdn.social, Antje Dammel, https://mstdn.social/@dammant
 @hanna_schmueck@fediscience.org, Hanna Schmück, https://fediscience.org/web/@hanna_schmueck
 @garicgymro@twt.cymru, Gareth Roberts, https://twt.cymru/@garicgymro
-@JeroenSH@mastodon.green, Jeroen van de Weijer, https://mastodon.green/@JeroenSH
+@JeroenSH@toot.community, Jeroen van de Weijer, https://toot.community
 @xenia_ks@dizl.de, Xenia Schmalz, https://dizl.de/@xenia_ks
 @beestween@ohai.social, Berit Johannsen, https://ohai.social/@beestween
 @Kate_Sayers@sciences.social, Kate Sayers, https://sciences.social/web/@Kate_Sayers
@@ -144,12 +149,12 @@ JLC1956@nerdculture.de, Jean-Luc CHEVILLARD, https://nerdculture.de/@JLC1956
 @mariniceforo@climatejustice.social, Marina Niceforo, https://climatejustice.social/@mariniceforo
 @sylviajaki@ohai.social, Sylvia Jaki, https://ohai.social/@sylviajaki
 @nshchinov@urbanists.social, Nadezda Shchinova, https://urbanists.social/@nshchinov
-@javier@lingo.lol, Javier Fernández Cruz,NA 
-@hefrightbe@social.cologne, Brook Hefright,NA
+@javier@lingo.lol, Javier Fernández Cruz, 
+@hefrightbe@social.cologne, Brook Hefright,
 @HadasKotek@tech.lgbt, Hadas Kotek, https://tech.lgbt/@HadasKotek
-@MichaelErard@mastodon.social,NA, @michaelerard@lingo.lol
+@MichaelErard@mastodon.social,, @michaelerard@lingo.lol
 @ruthsinger@toot.community, Ruth Singer, https://toot.community/@ruthsinger
-@serenissimaj@sciences.social,NA,NA
+@serenissimaj@sciences.social,,
 @raul_aranovich@sciences.social, Raúl Aranovich, https://sciences.social/@raul_aranovich
 @rivaquiroga@mastodon.social, Riva Quiroga, https://mastodon.social/@rivaquiroga
 @billy@mathstodon.xyz, Billy Woods, https://mathstodon.xyz/@billy
@@ -166,3 +171,7 @@ JLC1956@nerdculture.de, Jean-Luc CHEVILLARD, https://nerdculture.de/@JLC1956
 @williamjohnston@sciences.social, William Johnston, https://sciences.social/@williamjohnston 
 @schrisomalis@mastodon.online, Stephen Chrisomalis, https://mastodon.online/@schrisomalis
 @edwin_schmitt@mastodon.social, Edwin Schmitt, https://mastodon.social/@edwin_schmitt
+@ElisabethWApicella@fediscience.org,Elisabeth W. Apicella,https://fediscience.org/@ElisabethWApicella
+@kelseycampolong@mastodon.ie, Kelsey Campolong, https://mastodon.ie/@kelseycampolong
+@lkl@universeodon.com,Laura K Lawless, https://universeodon.com/@lkl
+@StefanMuelller@lingo.lol, Stefan Müller, https://lingo.lol/@StefanMuelller
